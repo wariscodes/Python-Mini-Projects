@@ -38,7 +38,7 @@ while True:
         if(amount <= 0):
             print("Invalid Amount")
         else:
-            account1.withdraw()
+            account1.withdraw(amount)
     elif(choice == 3):
         account1.check_balance()
     elif(choice == 4):
