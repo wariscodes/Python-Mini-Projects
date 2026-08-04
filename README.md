@@ -1,20 +1,31 @@
 # 🐍 Python Mini Projects
 
-This repository contains Python mini projects that I built while learning Python, Object-Oriented Programming (OOP), and problem solving.
+A collection of Python mini projects built for learning Python, OOP, and problem-solving.
 
-## 📂 Projects
+## Projects
 
-- ✅ Bank Account System
-- ⏳ More projects coming soon...
+### 1. Bank Account Management System
+- Deposit Money
+- Withdraw Money
+- Check Balance
+- OOP Based
 
-## 🛠️ Technologies Used
+### 2. Student Result Management System
+- Add Student Details
+- Enter Subject Marks
+- Calculate Total Marks
+- Calculate Average
+- Generate Grade
+- Display Final Report
 
-- Python
-- OOP
-- Loops
-- Functions
+## Concepts Used
+
+- Python Basics
+- Object-Oriented Programming (OOP)
+- Classes & Objects
+- Constructors
+- Methods
+- User Input
 - Conditional Statements
 
-## 🎯 Goal
-
-To improve Python programming skills by building real mini projects.
+## More Projects Coming Soon...
